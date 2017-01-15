@@ -1,1 +1,1 @@
-Repository used to add tools for datascience
+Repository used to collect exercises using tools for datascience
